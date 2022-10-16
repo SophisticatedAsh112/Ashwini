@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+.container{width: 1200px; margin: auto; display: flex; font-family: 'Bungee Spice';}
+.product{border: solid; width: 25%; text-align: center;}
+img{width: 100%;}
